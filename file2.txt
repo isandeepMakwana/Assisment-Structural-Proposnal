@@ -54,12 +54,6 @@ TOC
 
 
 
-pip install pyinstaller
-pyinstaller indes.py --onefile
-
-
-
-
 
 
 
